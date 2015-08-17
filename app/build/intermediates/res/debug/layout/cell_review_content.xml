@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+    
+	<TextView
+    	android:layout_marginTop="10dp"
+    	android:layout_marginLeft="10dp"
+    	android:layout_marginRight="10dp"
+    	android:layout_marginBottom="10dp"
+        android:id="@+id/tvContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/following_button_bg"
+        android:lineSpacingExtra="10dp"
+        android:textColor="#383838"
+        android:textSize="16sp"
+        android:text="@string/cheese_ipsum"
+        android:linksClickable="true"
+        android:textStyle="normal" />
+
+</LinearLayout><!-- From: file:/D:/PROJECT_AStudio/Material_ParallaxDesign/app/src/main/res/layout/cell_review_content.xml -->
