@@ -94,6 +94,6 @@
  ![demo](Screenshots/demo.gif)
  
 ## 5. License
-Copyright (c) 2014 Pedro Oliveira
+Copyright (c) 2015 tnrud122
 
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
